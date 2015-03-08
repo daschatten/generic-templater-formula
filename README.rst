@@ -2,7 +2,7 @@
 generic-templater
 =================
 
-Formula to generate files form pillar using the given jinja template. Can be used to generate pillar from pillar.
+Formula to generate files from pillar using the given jinja templates. Can be used to generate pillar from pillar.
 
 .. note::
 
